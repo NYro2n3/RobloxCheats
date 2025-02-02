@@ -7,3 +7,4 @@ Also check out the full thread design on our V3rmilion thread (and leave a 👍)
 Also check out our ScriptBlox page and leave a ⭐!
 
 Usage****
+Dont forget to turn off the windows defender 
